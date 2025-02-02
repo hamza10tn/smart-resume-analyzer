@@ -12,6 +12,10 @@
 
 * AI-Powered Analysis: Utilizes Azure OpenAI and Text Analyser for intelligent insights.
 
+>![image](https://github.com/user-attachments/assets/013e0562-2aa8-4cfd-89f0-a3c5d52f3346)
+
+>![image](https://github.com/user-attachments/assets/24aace10-30c0-41ef-89d6-e07a13112ffb)
+
 
 ## Install
 
