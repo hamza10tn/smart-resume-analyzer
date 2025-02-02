@@ -5,7 +5,13 @@
   </a>
 </p>
 
-> application for analyzing and improving CVs using AI (Python) and React (Front-end)
+* smart-resume-analyzer is a web application that helps users optimize their CVs for Applicant Tracking Systems (ATS). It analyzes CV content using AI-powered keyword detection and provides a detailed report with optimization suggestions.
+
+## Features:
+* Keyword Analysis: Identifies important keywords missing from the CV.
+
+* AI-Powered Analysis: Utilizes Azure OpenAI and Text Analyser for intelligent insights.
+
 
 ## Install
 
